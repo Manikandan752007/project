@@ -27,7 +27,7 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ## Discover.html
-``
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
