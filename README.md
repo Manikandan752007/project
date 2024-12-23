@@ -27,7 +27,7 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ## Discover.html
-```
+``
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -103,7 +103,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white py-3 text-center">
-    <p>&copy; 2024 | Designed by [Padmavathi]</p>
+    <p>&copy; 2024 | Designed by [Manikandan]</p>
   </footer>
 
 
@@ -154,7 +154,7 @@ Publish the website in the LocalHost.
             </div>
           </section>
           <footer class="bg-dark text-white py-3 text-center">
-            <p>&copy; 2024 | Designed by [Padmavathi]</p>
+            <p>&copy; 2024 | Designed by [Manikandan]</p>
           </footer>
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -224,7 +224,7 @@ Publish the website in the LocalHost.
             </div>
           </section>
           <footer class="bg-dark text-white py-3 text-center">
-            <p>&copy; 2024 | Designed by [Padmavathi]</p>
+            <p>&copy; 2024 | Designed by [Manikandan]</p>
           </footer>
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
           
