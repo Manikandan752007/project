@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date: 14-11-2024
+## Date: 23-12-2024
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -287,16 +287,20 @@ Publish the website in the LocalHost.
 ```
 ## OUTPUT:
 ## Discover.html:
-![image](https://github.com/user-attachments/assets/3d8ac1cd-55e4-4828-9e1b-8b3a977bed18)
+![Screenshot 2024-12-23 185443](https://github.com/user-attachments/assets/d244c654-7a29-42e8-8f9d-e042d6a8f149)
+
 
 ## About.html:
-![image](https://github.com/user-attachments/assets/10f67d95-f297-4f14-8074-2cdc51d3dd20)
+![Screenshot 2024-12-23 185626](https://github.com/user-attachments/assets/c311f4f1-bb71-4940-b819-2d28d1f77ace)
+
 
 ## Project.html:
-![image](https://github.com/user-attachments/assets/7cb7bc47-ee62-4fa6-b093-ba8fe65a5c8a)
+![Screenshot 2024-12-23 185714](https://github.com/user-attachments/assets/fd510be0-05ad-4ee2-b3fe-606669bdd7f6)
+
 
 ## Signup.html:
-![image](https://github.com/user-attachments/assets/6021c0b9-c8de-473b-b872-77e8aad13024)
+![Screenshot 2024-12-23 185744](https://github.com/user-attachments/assets/6cc27e67-5311-4064-94fc-75610de5000c)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
