@@ -291,7 +291,8 @@ Publish the website in the LocalHost.
 
 
 ## About.html:
-![Screenshot 2024-12-23 185626](https://github.com/user-attachments/assets/c311f4f1-bb71-4940-b819-2d28d1f77ace)
+![Screenshot 2024-12-24 213534](https://github.com/user-attachments/assets/2abe70f6-7e90-4b0f-bd77-879387ce5784)
+
 
 
 ## Project.html:
